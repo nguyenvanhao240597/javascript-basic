@@ -1,0 +1,19 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "Các bài tập javacript cơ bản",
+  "main": "main.js",
+  "scripts": {
+    "test": "javacript cơ bản"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenvanhao240597/javascript-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenvanhao240597/javascript-basic/issues"
+  },
+  "homepage": "https://github.com/nguyenvanhao240597/javascript-basic#readme"
+}
